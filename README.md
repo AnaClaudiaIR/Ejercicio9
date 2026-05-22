@@ -1,0 +1,1 @@
+Borrar el texto introducido en el campo de texto al clicar en un botón en JavaFX.
